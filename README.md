@@ -1,4 +1,6 @@
-### Olá Huamanos🙋‍♂️ Desenvolvo projetos open-source com foco em:
+### Olá Huamanos🙋‍♂️ Crio alguns projetos com foco em:
+- Bot's para Discord & Telegram.
+- I.A indepedente
 - Ethical-Hacking
 - Machine Learning
 - Offensive Security
