@@ -7,8 +7,6 @@
 
 Sou apenas uma pesosa tentando mudar o mundo...
 
-<img align="left" width="430" height="auto" alt="malwaredllc's github stats" src="https://github-readme-stats.vercel.app/api?username=foxwaynne&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true">
-
 ## Me siga em::
 <p align="left">
   <a href="https://twitter.com/FoxWaynne" target="blank">
@@ -33,4 +31,8 @@ Sou apenas uma pesosa tentando mudar o mundo...
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,python,html,css,git,linux)
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatiemsz&show_icons=true&locale=en&layout=compact&theme=radical" alt="thatiemsz" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatiemsz&show_icons=true&locale=en&theme=radical" alt="thatiemsz" />
+</p>
 
