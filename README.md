@@ -31,11 +31,6 @@ Sou apenas uma pesosa tentando mudar o mundo...
 <img align="right" width="359" height="auto" alt="foxwaynne's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxwaynne&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,cs,java,python,php,html,css,sass,react,vuejs,angular,spring,mysql,jquery,redis,postgresql,mongodb,sqlite,git,linux,docker,nginx,express,electron,bootstrap,workers,postman,xd,figma)
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatiemsz&show_icons=true&locale=en&layout=compact&theme=radical" alt="thatiemsz" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatiemsz&show_icons=true&locale=en&theme=radical" alt="thatiemsz" />
-</p>
+![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,python,html,css,git,linux)
 
 
